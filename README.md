@@ -1,1 +1,2 @@
-# bridge
+# Bridge
+#### This project serves as a technical demonstration showcasing the interaction between a producer and a consumer through the Kafka messaging system. The MessageController and ProducerService collaborate to send messages to the Kafka topic, while the ConsumerService listens for these messages. Notably, the producer and consumer services can be implemented in separate applications, allowing modular development and deployment while maintaining seamless communication through Kafka topics.
